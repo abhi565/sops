@@ -1,8 +1,14 @@
+---
+title: "Clear Application Cache"
+file: "clear-cache.md"
+last_updated: "2025-07-03"
+owner: "DevOps Team"
+tags: [cache, kubernetes, cloudflare, configmap, troubleshooting]
+category: "Application Maintenance"
+---
+
 # 🧹 Clear Application Cache SOP
 
-**File:** clear-cache.md  
-**Last Updated:** 2025-07-03  
-**Owner:** DevOps Team  
 **Purpose:** Clear various cache layers to resolve stale configuration or data issues.
 
 ---
