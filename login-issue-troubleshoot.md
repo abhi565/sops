@@ -1,8 +1,20 @@
+
+---
+
+### ✅ `sops/login-issue-troubleshoot.md`
+
+```markdown
+---
+title: "Login Issue Troubleshooting Guide"
+file: "login-issue-troubleshoot.md"
+last_updated: "2025-07-03"
+owner: "Support Team"
+tags: [authentication, sso, login, debug, ldap, jwt]
+category: "User Access & Identity"
+---
+
 # 🛠️ Login Issue Troubleshooting Guide
 
-**File:** login-issue-troubleshoot.md  
-**Last Updated:** 2025-07-03  
-**Owner:** Support Team  
 **Purpose:** Identify and resolve user login issues across identity systems.
 
 ---
